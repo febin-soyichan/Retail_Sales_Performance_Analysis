@@ -1,3 +1,4 @@
 # Retail Sales Performance Analysis
 
-- performed EDA
+- Data cleaning
+- EDA
